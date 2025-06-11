@@ -11,7 +11,9 @@
 
 **MENTOR**: NEELA SANTOSH
 
-##DESCRIPTION
+**DESCRIPTION**
+
+
 Setting up and configuring cloud storage on Amazon Web Services (AWS) Simple Storage Service (S3) provides a reliable and scalable solution for storing data in the cloud. For this setup, a bucket named my-aws-pooja-01 was created as a dedicated storage container for uploading, managing, and sharing files over the web. S3 is widely used due to its durability, ease of access, integration with other AWS services, and flexible permission controls.
 
 The process began by accessing the AWS Management Console and navigating to the S3 service, where the bucket was created. The bucket name my-aws-pooja-01 is globally unique, as required by AWS, ensuring that it does not conflict with any existing S3 buckets worldwide. The bucket was created in the us-east-1 region, although this can vary depending on data residency or performance needs. The default settings for versioning, encryption, and logging were initially left unchanged, although these features can later be enabled to enhance security, data recovery, and auditing.
@@ -26,6 +28,25 @@ To validate the setup, object URLs were used to access the uploaded files throug
 
 Overall, the configuration of the my-aws-pooja-01 bucket on AWS S3 demonstrates a complete cloud storage setup, ready for a wide range of applications, from simple file sharing to hosting static assets for web platforms.
 
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/68f3406d-27eb-4ba3-b4a5-21c9d799404e)
+
+![Image](https://github.com/user-attachments/assets/b3b63deb-d782-40cb-9a9e-fa976dfdfaca)
+
+![Image](https://github.com/user-attachments/assets/856f527b-b4cf-493a-ab42-fa6d24b33e10)
+
+![Image](https://github.com/user-attachments/assets/c2b6a8d0-35fe-4223-8cd0-3dcabd956900)
+
+![Image](https://github.com/user-attachments/assets/94e111a3-f2a3-4d79-a788-2958c6d3a668)
+
+![Image](https://github.com/user-attachments/assets/073ec5de-755b-4b2a-8a90-bacd5063f1c3)
+
+![Image](https://github.com/user-attachments/assets/2b911c80-963a-4f35-84f7-58a1ccf5e214)
+
+![Image](https://github.com/user-attachments/assets/5b34f98c-1694-4b0f-9889-804a0037b22c)
+
+![Image](https://github.com/user-attachments/assets/ba761e97-0498-4d13-86c5-98697f3f176b)
 
 
 
